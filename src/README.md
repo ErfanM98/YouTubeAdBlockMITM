@@ -2,6 +2,7 @@ Each of the scripts corresponds to the an API in the Youtube. For example, next.
 https://www.youtube.com/youtubei/v1/next/?...
 
 Below are the regex of the URL of each api:
+
 browse.js
 https:\/\/www\.youtube\.com\/youtubei\/v1\/browse\/?
 
